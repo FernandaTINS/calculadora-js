@@ -1,7 +1,7 @@
 # Calculadora
 
-Calculadora que faz operações simples como: Soma, divisão, multiplicação, subtração.
-Interface super simples.
+Calculadora que desenvolve operações simples como: soma, divisão, multiplicação, subtração.
+Interface intuitiva.
 
 
 ## Feito Com:
