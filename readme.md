@@ -1,4 +1,4 @@
-# Calculadora
+# Calculadora JS.
 
 Calculadora que desenvolve operações simples como: soma, divisão, multiplicação, subtração.
 Interface intuitiva.
